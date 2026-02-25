@@ -4,7 +4,7 @@
 
 
 # 💫 About Me!! 😃
-🔭 I’m currently working on AI-ML & DS<br><br>🌱 I’m currently learning Cyber Security<br><br>👨‍💻 My projects are available at GitHub<br><br>📫 How to reach me: primethebeasthunter@gmail.com<br><br>⚡ Fun fact: U Know It 😜
+🔭 I’m currently working on AI-ML & DS<br><br>👨‍💻 My projects are available at GitHub<br><br>📫 How to reach me: primethebeasthunter@gmail.com<br><br>
 
 
 ## 🌐 Socials:
