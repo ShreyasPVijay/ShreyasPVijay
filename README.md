@@ -6,6 +6,14 @@
 # 💫 About Me!! 😃
 🔭 I’m currently working on AI/ML & DS<br><br>👨‍💻 My projects are available at GitHub<br><br>📫 How to reach me: srxgetinfo@gmail.com<br><br>
 
+<!-- Follow Button -->
+<a class="github-button" href="https://github.com/ShreyasPVijay" data-size="large" aria-label="Follow @ShreyasPVijay on GitHub">Follow @ShreyasPVijay</a>
+
+<!-- Star Button -->
+<a class="github-button" href="https://github.com/ShreyasPVijay/my-repo" data-icon="octicon-star" data-size="large" aria-label="Star ShreyasPVijay/my-repo on GitHub">Star</a>
+
+<!-- Load GitHub Buttons Script -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/srs) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__.srx.___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thesrs) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_IAM_SRS_)
