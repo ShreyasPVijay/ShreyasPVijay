@@ -4,7 +4,7 @@
 
 
 # 💫 About Me!! 😃
-🔭 I’m currently working on AI-ML & DS<br><br>👨‍💻 My projects are available at GitHub<br><br>📫 How to reach me: primethebeasthunter@gmail.com<br><br>
+🔭 I’m currently working on AI/ML & DS<br><br>👨‍💻 My projects are available at GitHub<br><br>📫 How to reach me: srxgetinfo@gmail.com<br><br>
 
 
 ## 🌐 Socials:
