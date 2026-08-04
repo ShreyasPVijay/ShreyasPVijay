@@ -9,15 +9,15 @@
 
 </div>
 
+
+
 <div align="center">
 
-<a href="https://github.com/ShreyasPVijaytab=followers">
+<a href="https://github.com/ShreyasPVijay">
 
-<img src="https://img.shields.io/badge/❤️%20FOLLOW%20ME%20%20-0969DA?style=for-the-badge&logo=github&logoColor=white" height="60"/>
+<img src="https://img.shields.io/badge/❤️%20FOLLOW%20ME-0969DA?style=for-the-badge&logo=github&logoColor=white" height="60"/>
 
 </a>
-
-<br>
 
 </div>
 
