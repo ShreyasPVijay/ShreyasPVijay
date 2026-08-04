@@ -36,7 +36,7 @@
 - 💻 Software Engineer
 - 📊 Data Science Enthusiast
 - 🌱 Learning AI Agents, RAG, LLMs
-- 📫 Email: srxdevinfol@gmail.com
+- 📫 Email: srxdevinfo@gmail.com
 
 ---
 
