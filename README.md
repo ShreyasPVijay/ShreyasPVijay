@@ -91,24 +91,20 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<!-- ====================== GITHUB STATS ====================== -->
-
 <h2 align="center">📊 GitHub Stats</h2>
 
-
----
-
-## 📊 GitHub Summary
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShreyasPVijay&theme=github_dark" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ShreyasPVijay&show_icons=true&locale=en"
+    alt=""
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShreyasPVijay&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShreyasPVijay&theme=github_dark" width="49%" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyasPVijay"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -118,6 +114,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyasPVijay&theme=tokyo-night&hide_border=true" />
 </p>
+
+---
 
 <h1 align="center">👀 Profile Views</h1>
 
