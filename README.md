@@ -3,9 +3,28 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Developer;Data+Science+Enthusiast;Full+Software+Engineer;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Developer;Data+Science+Enthusiast;Software+Engineer;" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/ShreyasPVijaytab=followers">
+
+<img src="https://img.shields.io/badge/❤️%20FOLLOW%20ME%20%20-0969DA?style=for-the-badge&logo=github&logoColor=white" height="60"/>
+
+</a>
+
+<br>
+
+</div>
+
+<div align="center">
+
+### 💡 Designing Intelligent Technology
+<sub><b>Building intelligent systems, solving real world problems, and sharing my development journey..</b></sub>
 
 </div>
 
@@ -13,8 +32,8 @@
 
 ## 🚀 About Me
 
-- 🤖 AI Engineer & ML Developer
-- 💻 Full Stack Developer
+- 🤖 AI & ML Engineer
+- 💻 Software Engineer
 - 📊 Data Science Enthusiast
 - 🌱 Learning AI Agents, RAG, LLMs
 - 📫 Email: srxdevinfol@gmail.com
@@ -24,9 +43,9 @@
 ## 🌐 Connect
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefoxbrowser"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/imsrs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ShreyasPVijay"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefoxbrowser"/></a>
+<a href="srxdevinfo@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -38,7 +57,7 @@
 | 🤖 AI Connected Web Browser | REST API powered intelligent browser |
 | 🧠 AI Pipeline Builder | ReactFlow + FastAPI workflow builder |
 | 📊 Data Analytics Dashboard | Interactive visualization platform |
-| 💬 AI Chatbot | LLM-powered assistant |
+| 💬 AI Chatbot | LLM-Powered Assistant |
 
 ---
 
@@ -74,21 +93,39 @@
 
 # 📊 GitHub Stats
 
+<!-- ====================== GITHUB STATS ====================== -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShreyasPVijay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasPVijay&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=ShreyasPVijay&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
+---
+
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=2&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ShreyasPVijay&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyasPVijay&theme=tokyo-night&hide_border=true" />
+</p>
+
+<h1 align="center">👀 Profile Views</h1>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ShreyasPVijay&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
@@ -99,9 +136,6 @@
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
-</p>
 
 <div align="center">
 
