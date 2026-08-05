@@ -32,7 +32,7 @@
 ## 🚀 About Me
 
 - 🤖 AI & ML Engineer
-- 💻 Software Engineer
+- 💻 Software Developer
 - 📊 Data Science Enthusiast
 - 🌱 Learning AI Agents, RAG, LLMs
 - 📫 Email: srxdevinfo@gmail.com
