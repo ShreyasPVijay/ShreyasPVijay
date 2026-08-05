@@ -23,8 +23,7 @@
 
 <div align="center">
 
-### 💡 Designing Intelligent Technology
-<sub><b>Building intelligent systems, solving real world problems, and sharing my development journey..</b></sub>
+<sub><b>Building intelligent systems, solving real world problems, and sharing my development journey...</b></sub>
 
 </div>
 
