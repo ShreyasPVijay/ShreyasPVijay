@@ -64,8 +64,6 @@
 
 </div>
 
-<br><br>
-
 <!-- ==================== PROJECTS ==================== -->
 
 <h3 align="left">PROJECTS.LIST</h3>
