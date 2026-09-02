@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Developer;Data+Science+Enthusiast;Software+Engineer;" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+ML+Engineer;Data+Science+Enthusiast;Software+Developer;" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
