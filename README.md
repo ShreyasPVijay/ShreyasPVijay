@@ -1,250 +1,140 @@
+
+# Hi 👋, I'm Shreyas
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Developer;Data+Science+Enthusiast;Software+Engineer;" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
+
+
+
+<div align="center">
+
+<a href="https://github.com/ShreyasPVijay">
+
+<img src="https://img.shields.io/badge/❤️%20FOLLOW%20ME-0969DA?style=for-the-badge&logo=github&logoColor=white" height="60"/>
+
+</a>
+
+</div>
+
+<div align="center">
+
+<sub><b>Building intelligent systems, solving real world problems, and sharing my development journey...</b></sub>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🤖 AI & ML Engineer
+- 💻 Software Developer
+- 📊 Data Science Enthusiast
+- 🌱 Learning AI Agents, RAG, LLMs
+- 📫 Email: srxdevinfo@gmail.com
+
+---
+
+## 🌐 Connect
+
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/dark.svg">
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/light.svg">
-    <img
-      src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/light.svg"
-      alt="Arif Hasan"
-      width="100%">
-  </picture>
+<a href="https://www.linkedin.com/in/imsrs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ShreyasPVijay"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefoxbrowser"/></a>
+<a href="srxdevinfo@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<br>
+---
 
-<!-- ==================== GITHUB STATS ==================== -->
+# 🚀 Featured Projects
 
-<div align="center">
+| Project | Description |
+|---------|-------------|
+| 🤖 AI Connected Web Browser | REST API powered intelligent browser |
+| 🧠 AI Pipeline Builder | ReactFlow + FastAPI workflow builder |
+| 📊 Data Analytics Dashboard | Interactive visualization platform |
+| 💬 AI Chatbot | LLM-Powered Assistant |
 
-<img
-  width="100%"
-  src="https://streak-stats.demolab.com/?user=arifhaxn&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180"
-  alt="GitHub Streak"
-/>
+---
 
-<br><br>
+# 💻 Tech Stack
 
-<img
-  width="49%"
-  src="https://YOUR-VERCEL-INSTANCE.vercel.app/api?username=arifhaxn&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500"
-  alt="GitHub Stats"
-/>
+### Languages
 
-<img
-  width="49%"
-  src="https://YOUR-VERCEL-INSTANCE.vercel.app/api/top-langs/?username=arifhaxn&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500"
-  alt="Top Languages"
-/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 
-</div>
+### AI / ML
 
-<br>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 
-<!-- ==================== CONTRIBUTION SNAKE ==================== -->
+### Frameworks
 
-<div align="center">
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ShreyasPVijay/ShreyasPVijay/output/github-snake-dark.svg">
+### Tools
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ShreyasPVijay/ShreyasPVijay/output/github-snake.svg">
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
   <img
-    src="https://raw.githubusercontent.com/ShreyasPVijay/ShreyasPVijay/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%">
-    
-</picture>
+    src="https://github-readme-stats.vercel.app/api?username=ShreyasPVijay&show_icons=true&locale=en"
+    alt=""
+  />
+</p>
 
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyasPVijay"
+    alt="GitHub Streak"
+  />
+</p>
 
-<!-- ==================== PROJECTS ==================== -->
+---
 
-<h3 align="left">PROJECTS.LIST</h3>
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyasPVijay&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<h1 align="center">👀 Profile Views</h1>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ShreyasPVijay&style=for-the-badge&color=blueviolet"/>
+</p>
+
+---
+
+## ✨ Quote
+
+> "Build. Learn. Share. Repeat."
+
+---
+
 
 <div align="center">
 
-<table width="100%">
+### ⭐ Thanks for visiting!
 
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🟢 LeadUnity</h3>
-
-<p>
-Learning Unity in a diverse setup.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Unity-0A101F?style=flat-square&logo=unity&logoColor=22D3EE">
-<img src="https://img.shields.io/badge/Dart-0A101F?style=flat-square&logo=dart&logoColor=22D3EE">
-</p>
-
-<a href="https://github.com/arifhaxn/lead_unity">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🎮 OnePick</h3>
-
-<p>
-One tap. The perfect app to find your character.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Flutter-0A101F?style=flat-square&logo=flutter&logoColor=22D3EE">
-<img src="https://img.shields.io/badge/Dart-0A101F?style=flat-square&logo=dart&logoColor=A78BFA">
-</p>
-
-<a href="https://github.com/arifhaxn/one_pick">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge">
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>♟️ Chessy_</h3>
-
-<p>
-Play chess with all your variations.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Flutter-0A101F?style=flat-square&logo=flutter&logoColor=22D3EE">
-<img src="https://img.shields.io/badge/Dart-0A101F?style=flat-square&logo=dart&logoColor=A78BFA">
-</p>
-
-<a href="https://github.com/arifhaxn/Chessy_">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🟠 Claster_</h3>
-
-<p>
-A class app made for teachers with a lot of features.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Flutter-0A101F?style=flat-square&logo=flutter&logoColor=22D3EE">
-<img src="https://img.shields.io/badge/Firebase-0A101F?style=flat-square&logo=firebase&logoColor=10B981">
-</p>
-
-<a href="https://github.com/arifhaxn/Claster_">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge">
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🎧 OneTELE</h3>
-
-<p>
-A custom teleprompter for life's recording.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Flutter-0A101F?style=flat-square&logo=flutter&logoColor=22D3EE">
-<img src="https://img.shields.io/badge/Dart-0A101F?style=flat-square&logo=dart&logoColor=A78BFA">
-</p>
-
-<a href="https://github.com/arifhaxn">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🤖 Career Logic AI</h3>
-
-<p>
-An AI-powered career assessment system for smarter career solutions.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Python-0A101F?style=flat-square&logo=python&logoColor=10B981">
-<img src="https://img.shields.io/badge/AI%2FML-0A101F?style=flat-square&logo=tensorflow&logoColor=A78BFA">
-</p>
-
-<a href="https://github.com/arifhaxn">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge">
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
-<br><br>
-
-<!-- ==================== SOCIAL LINKS ==================== -->
-
-<div align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img
-  src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  alt="LinkedIn">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="YOUR_INSTAGRAM_URL">
-<img
-  src="https://img.shields.io/badge/INSTAGRAM-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F"
-  alt="Instagram">
-</a>
-
-<br><br>
-
-<a href="YOUR_FACEBOOK_URL">
-<img
-  src="https://img.shields.io/badge/FACEBOOK-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE&labelColor=0A101F"
-  alt="Facebook">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img
-  src="https://img.shields.io/badge/EMAIL-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F"
-  alt="Email">
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### Building • Learning • Shipping
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0ea5e9&height=120&section=footer"/>
 
 </div>
